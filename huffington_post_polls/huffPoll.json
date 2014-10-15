@@ -1,0 +1,2548 @@
+{
+    "NH": {
+        "20544": {
+            "questions": {
+                "2014-new-hampshire-senate-brown-vs-shaheen": {
+                    "Brown": 44, 
+                    "Undecided": 5, 
+                    "Shaheen": 50
+                }, 
+                "2014-new-hampshire-governor-havenstein-vs-hassan": {
+                    "Hassan": 52, 
+                    "Havenstein": 43, 
+                    "Undecided": 4
+                }
+            }, 
+            "partisan": "Sponsor", 
+            "start_date": "2014-09-18", 
+            "end_date": "2014-09-19"
+        }, 
+        "20712": {
+            "questions": {
+                "2014-new-hampshire-senate-brown-vs-shaheen": {
+                    "Brown": 41, 
+                    "Other": 1, 
+                    "Undecided": 10, 
+                    "Shaheen": 48
+                }, 
+                "2014-new-hampshire-governor-havenstein-vs-hassan": {
+                    "Hassan": 49, 
+                    "Havenstein": 39, 
+                    "Other": 0, 
+                    "Undecided": 12
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-20", 
+            "end_date": "2014-10-01"
+        }, 
+        "20503": {
+            "questions": {
+                "2014-new-hampshire-senate-brown-vs-shaheen": {
+                    "Brown": 47, 
+                    "Undecided": 11, 
+                    "Shaheen": 43
+                }, 
+                "2014-new-hampshire-governor-havenstein-vs-hassan": {
+                    "Hassan": 47, 
+                    "Havenstein": 43, 
+                    "Undecided": 10
+                }
+            }, 
+            "partisan": "Pollster", 
+            "start_date": "2014-09-15", 
+            "end_date": "2014-09-16"
+        }, 
+        "20780": {
+            "questions": {
+                "2014-new-hampshire-senate-brown-vs-shaheen": {
+                    "Brown": 38, 
+                    "Other": 1, 
+                    "Undecided": 17, 
+                    "Shaheen": 44
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-29", 
+            "end_date": "2014-10-05"
+        }, 
+        "20461": {
+            "questions": {
+                "2014-new-hampshire-senate-brown-vs-shaheen": {
+                    "Brown": 45, 
+                    "Undecided": 5, 
+                    "Shaheen": 50
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-12", 
+            "end_date": "2014-09-15"
+        }, 
+        "20495": {
+            "questions": {
+                "new-hampshire-obama-job-approval": {
+                    "Somewhat Disapprove": 8, 
+                    "Strongly Approve": 19, 
+                    "Strongly Disapprove": 41, 
+                    "Somewhat Approve": 30, 
+                    "Undecided": 3
+                }, 
+                "2014-new-hampshire-senate-brown-vs-shaheen": {
+                    "Brown": 40, 
+                    "Other": 5, 
+                    "Undecided": 4, 
+                    "Shaheen": 51
+                }, 
+                "2014-new-hampshire-governor-havenstein-vs-hassan": {
+                    "Hassan": 51, 
+                    "Havenstein": 36, 
+                    "Other": 4, 
+                    "Undecided": 9
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-10", 
+            "end_date": "2014-09-11"
+        }, 
+        "20436": {
+            "questions": {
+                "new-hampshire-obama-job-approval": {
+                    "Approve": 33, 
+                    "Disapprove": 57, 
+                    "Undecided": 10
+                }, 
+                "2014-new-hampshire-senate-brown-vs-shaheen": {
+                    "Brown": 46, 
+                    "Undecided": 10, 
+                    "Shaheen": 44
+                }
+            }, 
+            "partisan": "Pollster", 
+            "start_date": "2014-09-10", 
+            "end_date": "2014-09-11"
+        }, 
+        "20663": {
+            "questions": {
+                "2014-new-hampshire-senate-brown-vs-shaheen": {
+                    "Brown": 46, 
+                    "Other": 3, 
+                    "Undecided": 3, 
+                    "Shaheen": 47
+                }, 
+                "2014-new-hampshire-governor-havenstein-vs-hassan": {
+                    "Hassan": 48, 
+                    "Havenstein": 44, 
+                    "Other": 3, 
+                    "Undecided": 5
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-26", 
+            "end_date": "2014-09-26"
+        }, 
+        "20635": {
+            "questions": {
+                "2014-new-hampshire-senate-brown-vs-shaheen": {
+                    "Brown": 43, 
+                    "Undecided": 4, 
+                    "Shaheen": 53
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-27", 
+            "end_date": "2014-09-29"
+        }, 
+        "20572": {
+            "questions": {
+                "new-hampshire-obama-job-approval": {
+                    "Somewhat Disapprove": 9, 
+                    "Strongly Approve": 18, 
+                    "Strongly Disapprove": 41, 
+                    "Somewhat Approve": 28, 
+                    "Undecided": 5
+                }, 
+                "2014-new-hampshire-senate-brown-vs-shaheen": {
+                    "Brown": 43, 
+                    "Other": 4, 
+                    "Undecided": 3, 
+                    "Shaheen": 50
+                }, 
+                "2014-new-hampshire-governor-havenstein-vs-hassan": {
+                    "Hassan": 52, 
+                    "Havenstein": 40, 
+                    "Other": 4, 
+                    "Undecided": 5
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-19", 
+            "end_date": "2014-09-20"
+        }
+    }, 
+    "MN": {
+        "19808": {
+            "questions": {
+                "minnesota-obama-job-approval": {
+                    "Approve": 45, 
+                    "Disapprove": 45, 
+                    "Undecided": 10
+                }, 
+                "2014-minnesota-governor-dayton-vs-johnson": {
+                    "Nicollet": 11, 
+                    "Johnson": 37, 
+                    "Dayton": 52
+                }, 
+                "2014-minnesota-senate-mcfadden-vs-franken": {
+                    "Carlson": 13, 
+                    "Franken": 51, 
+                    "McFadden": 35
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-07-02", 
+            "end_date": "2014-07-03"
+        }, 
+        "20707": {
+            "questions": {
+                "2014-minnesota-governor-dayton-vs-johnson": {
+                    "Other": 1, 
+                    "Undecided": 8, 
+                    "Johnson": 49, 
+                    "Dayton": 42
+                }, 
+                "2014-minnesota-senate-mcfadden-vs-franken": {
+                    "Franken": 49, 
+                    "Other": 0, 
+                    "Undecided": 8, 
+                    "McFadden": 42
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-20", 
+            "end_date": "2014-10-01"
+        }, 
+        "20677": {
+            "questions": {
+                "minnesota-obama-job-approval": {
+                    "Approve": 50, 
+                    "Disapprove": 49
+                }, 
+                "2014-minnesota-senate-mcfadden-vs-franken": {
+                    "Franken": 49, 
+                    "Other": 3, 
+                    "Undecided": 6, 
+                    "McFadden": 41
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-29", 
+            "end_date": "2014-09-30"
+        }, 
+        "19686": {
+            "questions": {
+                "2014-minnesota-governor-zellers-vs-dayton": {
+                    "Undecided": 5, 
+                    "Other": 3, 
+                    "Zellers": 39, 
+                    "Nicollet": 6, 
+                    "Dayton": 46
+                }, 
+                "2014-minnesota-senate-mcfadden-vs-franken": {
+                    "Carlson": 4, 
+                    "Franken": 48, 
+                    "Other": 1, 
+                    "Undecided": 5, 
+                    "McFadden": 42
+                }, 
+                "null": {
+                    "Abeler": 39, 
+                    "Franken": 48, 
+                    "Other": 2, 
+                    "Undecided": 5, 
+                    "Terrell": 6
+                }, 
+                "2014-minnesota-governor-dayton-vs-johnson": {
+                    "Undecided": 6, 
+                    "Other": 2, 
+                    "Nicollet": 5, 
+                    "Johnson": 40, 
+                    "Dayton": 46
+                }, 
+                "2014-minnesota-governor-seifert-vs-dayton": {
+                    "Seifert": 38, 
+                    "Other": 3, 
+                    "Undecided": 6, 
+                    "Nicollet": 7, 
+                    "Dayton": 46
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-06-05", 
+            "end_date": "2014-06-09"
+        }, 
+        "20202": {
+            "questions": {
+                "minnesota-obama-job-approval": {
+                    "Approve": 38, 
+                    "Disapprove": 52, 
+                    "Undecided": 10
+                }, 
+                "2014-minnesota-governor-dayton-vs-johnson": {
+                    "Undecided": 5, 
+                    "Other": 3, 
+                    "Nicollet": 3, 
+                    "Johnson": 40, 
+                    "Dayton": 49
+                }, 
+                "2014-minnesota-senate-mcfadden-vs-franken": {
+                    "Carlson": 2, 
+                    "Franken": 51, 
+                    "Other": 2, 
+                    "Undecided": 3, 
+                    "McFadden": 42
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-08-19", 
+            "end_date": "2014-08-21"
+        }, 
+        "20429": {
+            "questions": {
+                "2014-minnesota-senate-mcfadden-vs-franken": {
+                    "Franken": 49, 
+                    "Undecided": 11, 
+                    "McFadden": 36
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-08", 
+            "end_date": "2014-09-10"
+        }, 
+        "19694": {
+            "questions": {
+                "2014-minnesota-governor-dayton-vs-johnson": {
+                    "Undecided": 16, 
+                    "Johnson": 36, 
+                    "Dayton": 47
+                }, 
+                "minnesota-obama-job-approval": {
+                    "Approve": 44, 
+                    "Disapprove": 50, 
+                    "Undecided": 6
+                }, 
+                "2014-minnesota-senate-mcfadden-vs-franken": {
+                    "Franken": 49, 
+                    "Undecided": 13, 
+                    "McFadden": 38
+                }, 
+                "2014-minnesota-governor-seifert-vs-dayton": {
+                    "Seifert": 36, 
+                    "Undecided": 17, 
+                    "Dayton": 47
+                }, 
+                "2014-minnesota-governor-zellers-vs-dayton": {
+                    "Undecided": 16, 
+                    "Zellers": 37, 
+                    "Dayton": 47
+                }, 
+                "null": {
+                    "Honour": 35, 
+                    "Undecided": 19, 
+                    "Dayton": 47
+                }
+            }, 
+            "partisan": "Pollster", 
+            "start_date": "2014-06-12", 
+            "end_date": "2014-06-15"
+        }, 
+        "20303": {
+            "questions": {
+                "2014-minnesota-governor-dayton-vs-johnson": {
+                    "Other": 2, 
+                    "Undecided": 10, 
+                    "Johnson": 41, 
+                    "Dayton": 48
+                }, 
+                "2014-minnesota-senate-mcfadden-vs-franken": {
+                    "Franken": 49, 
+                    "Other": 1, 
+                    "Undecided": 9, 
+                    "McFadden": 41
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-08-18", 
+            "end_date": "2014-09-02"
+        }, 
+        "20778": {
+            "questions": {
+                "minnesota-obama-job-approval": {
+                    "Approve": 39, 
+                    "Disapprove": 53, 
+                    "Undecided": 8
+                }, 
+                "2014-minnesota-governor-dayton-vs-johnson": {
+                    "Johnson": 39, 
+                    "Dayton": 51, 
+                    "Holbrook": 0, 
+                    "Wright": 1, 
+                    "Other": 1, 
+                    "Undecided": 4, 
+                    "Nicollet": 4
+                }, 
+                "2014-minnesota-senate-mcfadden-vs-franken": {
+                    "Johnson": 1, 
+                    "Carlson": 3, 
+                    "Franken": 55, 
+                    "Other": 1, 
+                    "Undecided": 3, 
+                    "McFadden": 37
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-30", 
+            "end_date": "2014-10-02"
+        }, 
+        "19966": {
+            "questions": {
+                "2014-minnesota-governor-zellers-vs-dayton": {
+                    "Other": 4, 
+                    "Undecided": 2, 
+                    "Zellers": 38, 
+                    "Dayton": 55
+                }, 
+                "2014-minnesota-governor-seifert-vs-dayton": {
+                    "Seifert": 38, 
+                    "Other": 6, 
+                    "Undecided": 2, 
+                    "Dayton": 54
+                }, 
+                "2014-minnesota-senate-mcfadden-vs-franken": {
+                    "Franken": 55, 
+                    "Other": 2, 
+                    "Undecided": 2, 
+                    "McFadden": 41
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-07-05", 
+            "end_date": "2014-07-24"
+        }
+    }, 
+    "CO": {
+        "20481": {
+            "questions": {
+                "2014-colorado-senate-gardner-vs-udall": {
+                    "Shogan": 1, 
+                    "Undecided": 10, 
+                    "Acosta": 1, 
+                    "Gardner": 43, 
+                    "Kent": 2, 
+                    "Hammons": 1, 
+                    "Udall": 42
+                }, 
+                "colorado-obama-job-approval": {
+                    "Approve": 42, 
+                    "Disapprove": 56, 
+                    "Undecided": 1, 
+                    "Refused": 1
+                }, 
+                "2014-colorado-governor-beauprez-vs-hickenlooper": {
+                    "Hempy": 2, 
+                    "Dunafon": 2, 
+                    "Beauprez": 41, 
+                    "Hickenlooper": 43, 
+                    "Undecided": 10, 
+                    "Hess": 2, 
+                    "Fiorino": 1
+                }, 
+                "null": {
+                    "Clinton": 59, 
+                    "Refused": 1, 
+                    "Biden": 8, 
+                    "Other": 2, 
+                    "Undecided": 6, 
+                    "Cuomo": 4, 
+                    "Warren": 21
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-13", 
+            "end_date": "2014-09-16"
+        }, 
+        "20483": {
+            "questions": {
+                "2014-colorado-senate-gardner-vs-udall": {
+                    "Undecided": 3, 
+                    "Other": 2, 
+                    "Udall": 48, 
+                    "Gardner": 46
+                }, 
+                "2014-colorado-governor-beauprez-vs-hickenlooper": {
+                    "Beauprez": 44, 
+                    "Other": 1, 
+                    "Hickenlooper": 51, 
+                    "Undecided": 4
+                }
+            }, 
+            "partisan": "Pollster", 
+            "start_date": "2014-09-07", 
+            "end_date": "2014-09-14"
+        }, 
+        "20582": {
+            "questions": {
+                "2014-colorado-senate-gardner-vs-udall": {
+                    "Undecided": 8, 
+                    "Udall": 45, 
+                    "Gardner": 47
+                }, 
+                "colorado-obama-job-approval": {
+                    "Approve": 35, 
+                    "Disapprove": 58, 
+                    "Undecided": 7
+                }
+            }, 
+            "partisan": "Sponsor", 
+            "start_date": "2014-09-19", 
+            "end_date": "2014-09-21"
+        }, 
+        "20775": {
+            "questions": {
+                "2014-colorado-senate-gardner-vs-udall": {
+                    "Undecided": 11, 
+                    "Other": 7, 
+                    "Udall": 37, 
+                    "Gardner": 43, 
+                    "Wouldn't vote": 1
+                }, 
+                "2014-colorado-governor-beauprez-vs-hickenlooper": {
+                    "Beauprez": 42, 
+                    "Other": 6, 
+                    "Hickenlooper": 42, 
+                    "Undecided": 9, 
+                    "Wouldn't vote": 1
+                }, 
+                "colorado-obama-job-approval": {
+                    "Approve": 36, 
+                    "Disapprove": 57, 
+                    "Undecided": 7
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-10-04", 
+            "end_date": "2014-10-07"
+        }, 
+        "20520": {
+            "questions": {
+                "2014-colorado-senate-gardner-vs-udall": {
+                    "Undecided": 9, 
+                    "Kent": 6, 
+                    "Gardner": 46, 
+                    "Udall": 39
+                }, 
+                "2014-colorado-governor-beauprez-vs-hickenlooper": {
+                    "Beauprez": 48, 
+                    "Hess": 5, 
+                    "Hickenlooper": 43, 
+                    "Undecided": 4
+                }, 
+                "colorado-obama-job-approval": {
+                    "Approve": 38, 
+                    "Disapprove": 57, 
+                    "Undecided": 5
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-16", 
+            "end_date": "2014-09-17"
+        }, 
+        "20489": {
+            "questions": {
+                "2014-colorado-senate-gardner-vs-udall": {
+                    "Shogan": 8, 
+                    "Other": 0, 
+                    "Undecided": 3, 
+                    "Udall": 40, 
+                    "Gardner": 48
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-10", 
+            "end_date": "2014-09-15"
+        }, 
+        "20281": {
+            "questions": {
+                "2014-colorado-senate-gardner-vs-udall": {
+                    "Undecided": 10, 
+                    "Other": 4, 
+                    "Udall": 44, 
+                    "Gardner": 42
+                }, 
+                "colorado-obama-job-approval": {
+                    "Approve": 47, 
+                    "Disapprove": 51, 
+                    "Undecided": 2
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-03", 
+            "end_date": "2014-09-04"
+        }, 
+        "20657": {
+            "questions": {
+                "2014-colorado-senate-gardner-vs-udall": {
+                    "Undecided": 3, 
+                    "Other": 2, 
+                    "Udall": 47, 
+                    "Gardner": 48
+                }, 
+                "colorado-obama-job-approval": {
+                    "Approve": 47, 
+                    "Disapprove": 51, 
+                    "Undecided": 2
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-29", 
+            "end_date": "2014-09-30"
+        }, 
+        "20695": {
+            "questions": {
+                "2014-colorado-senate-gardner-vs-udall": {
+                    "Undecided": 6, 
+                    "Other": 1, 
+                    "Udall": 48, 
+                    "Gardner": 45
+                }, 
+                "2014-colorado-governor-beauprez-vs-hickenlooper": {
+                    "Beauprez": 45, 
+                    "Other": 1, 
+                    "Hickenlooper": 49, 
+                    "Undecided": 5
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-20", 
+            "end_date": "2014-10-01"
+        }, 
+        "20401": {
+            "questions": {
+                "2014-colorado-senate-gardner-vs-udall": {
+                    "Shogan": 3, 
+                    "Undecided": 7, 
+                    "Kent": 2, 
+                    "Gardner": 42, 
+                    "Udall": 46
+                }, 
+                "2014-colorado-governor-beauprez-vs-hickenlooper": {
+                    "Hempy": 1, 
+                    "Dunafon": 2, 
+                    "Beauprez": 43, 
+                    "Hickenlooper": 45, 
+                    "Undecided": 5, 
+                    "Hess": 1
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-08", 
+            "end_date": "2014-09-10"
+        }
+    }, 
+    "LA": {
+        "20487": {
+            "questions": {
+                "2014-louisiana-senate-cassidy-vs-landrieu": {
+                    "Undecided": 9, 
+                    "Cassidy": 51, 
+                    "Landrieu": 38, 
+                    "Wouldn't vote": 2
+                }, 
+                "louisiana-obama-job-approval": {
+                    "Approve": 34, 
+                    "Disapprove": 61, 
+                    "Undecided": 5
+                }, 
+                "2014-louisiana-senate-primary": {
+                    "Landrieu": 31, 
+                    "McMorris": 2, 
+                    "Other": 0, 
+                    "Cassidy": 35, 
+                    "Undecided": 16, 
+                    "Another Republican": 5, 
+                    "Another Democrat": 4, 
+                    "Wouldn't vote": 0, 
+                    "Maness": 7
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-14", 
+            "end_date": "2014-09-16"
+        }, 
+        "19784": {
+            "questions": {
+                "2014-louisiana-senate-cassidy-vs-landrieu": {
+                    "Not sure": 6, 
+                    "Cassidy": 47, 
+                    "Landrieu": 47
+                }, 
+                "null": {
+                    "Vitter": 40, 
+                    "Dardenne": 34, 
+                    "Undecided": 27
+                }, 
+                "2014-louisiana-senate-primary": {
+                    "Undecided": 17, 
+                    "Hollis": 5, 
+                    "Cassidy": 27, 
+                    "Landrieu": 44, 
+                    "Maness": 8
+                }
+            }, 
+            "partisan": "Pollster", 
+            "start_date": "2014-06-26", 
+            "end_date": "2014-06-29"
+        }, 
+        "20491": {
+            "questions": {
+                "2014-louisiana-senate-cassidy-vs-landrieu": {
+                    "Undecided": 10, 
+                    "Cassidy": 45, 
+                    "Landrieu": 45
+                }, 
+                "louisiana-obama-job-approval": {
+                    "Approve": 37, 
+                    "Disapprove": 58, 
+                    "Undecided": 5
+                }, 
+                "null": {
+                    "Bush": 48, 
+                    "Clinton": 43, 
+                    "Undecided": 9
+                }, 
+                "2014-louisiana-senate-primary": {
+                    "Undecided": 12, 
+                    "Cassidy": 30, 
+                    "Landrieu": 43, 
+                    "Maness": 14
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-05", 
+            "end_date": "2014-09-09"
+        }, 
+        "20274": {
+            "questions": {
+                "2014-louisiana-senate-cassidy-vs-landrieu": {
+                    "Undecided": 6, 
+                    "Other": 9, 
+                    "Cassidy": 44, 
+                    "Landrieu": 41
+                }, 
+                "louisiana-obama-job-approval": {
+                    "Strongly Disapprove": 48, 
+                    "Strongly Approve": 25, 
+                    "Approve": 17, 
+                    "Disapprove": 8, 
+                    "Undecided": 2
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-02", 
+            "end_date": "2014-09-03"
+        }, 
+        "20626": {
+            "questions": {
+                "2014-louisiana-senate-cassidy-vs-landrieu": {
+                    "Not sure": 7, 
+                    "Cassidy": 48, 
+                    "Landrieu": 45
+                }, 
+                "louisiana-obama-job-approval": {
+                    "Approve": 39, 
+                    "Disapprove": 56, 
+                    "Undecided": 4
+                }, 
+                "null": {
+                    "Paul": 47, 
+                    "Clinton": 43, 
+                    "Undecided": 9
+                }, 
+                "2014-louisiana-senate-primary": {
+                    "Undecided": 10, 
+                    "Other": 2, 
+                    "Cassidy": 34, 
+                    "Landrieu": 42, 
+                    "Maness": 12
+                }
+            }, 
+            "partisan": "Pollster", 
+            "start_date": "2014-09-25", 
+            "end_date": "2014-09-28"
+        }, 
+        "19826": {
+            "questions": {
+                "2014-louisiana-senate-cassidy-vs-landrieu": {
+                    "Undecided": 6, 
+                    "Other": 5, 
+                    "Cassidy": 43, 
+                    "Landrieu": 46
+                }, 
+                "louisiana-obama-job-approval": {
+                    "Strongly Disapprove": 46, 
+                    "Strongly Approve": 28, 
+                    "Approve": 16, 
+                    "Disapprove": 7, 
+                    "Undecided": 2
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-07-08", 
+            "end_date": "2014-07-09"
+        }, 
+        "19960": {
+            "questions": {
+                "2014-louisiana-senate-cassidy-vs-landrieu": {
+                    "Undecided": 1, 
+                    "Other": 6, 
+                    "Cassidy": 47, 
+                    "Landrieu": 46
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-07-05", 
+            "end_date": "2014-07-24"
+        }, 
+        "20601": {
+            "questions": {
+                "2014-louisiana-senate-cassidy-vs-landrieu": {
+                    "Undecided": 3, 
+                    "Cassidy": 50, 
+                    "Landrieu": 47
+                }, 
+                "louisiana-obama-job-approval": {
+                    "Approve": 40, 
+                    "Disapprove": 56, 
+                    "Undecided": 5
+                }, 
+                "null": {
+                    "Undecided": 4, 
+                    "Maness": 48, 
+                    "Landrieu": 48
+                }, 
+                "2014-louisiana-senate-primary": {
+                    "Landrieu": 43, 
+                    "Other": 4, 
+                    "Cassidy": 40, 
+                    "Undecided": 4, 
+                    "Neither": 0, 
+                    "Maness": 9
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-22", 
+            "end_date": "2014-09-25"
+        }, 
+        "20414": {
+            "questions": {
+                "2014-louisiana-senate-cassidy-vs-landrieu": {
+                    "Cassidy": 46, 
+                    "Landrieu": 48
+                }, 
+                "2014-louisiana-senate-primary": {
+                    "Cassidy": 32, 
+                    "Landrieu": 47, 
+                    "Maness": 13
+                }
+            }, 
+            "partisan": "Sponsor", 
+            "start_date": "2014-08-28", 
+            "end_date": "2014-09-02"
+        }, 
+        "20703": {
+            "questions": {
+                "2014-louisiana-senate-cassidy-vs-landrieu": {
+                    "Undecided": 13, 
+                    "Cassidy": 47, 
+                    "Landrieu": 41
+                }, 
+                "2014-louisiana-senate-primary": {
+                    "Brown": 2, 
+                    "Ables": 1, 
+                    "Landrieu": 36, 
+                    "Clements": 3, 
+                    "McMorris": 2, 
+                    "Senegal": 0, 
+                    "Other": 0, 
+                    "Maness": 4, 
+                    "Undecided": 19, 
+                    "Waymire": 1, 
+                    "Cassidy": 32
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-20", 
+            "end_date": "2014-10-01"
+        }
+    }, 
+    "AK": {
+        "20450": {
+            "questions": {
+                "2014-alaska-senate-sullivan-vs-begich": {
+                    "Begich": 45, 
+                    "Sullivan": 40, 
+                    "Other": 7, 
+                    "Undecided": 8
+                }
+            }, 
+            "partisan": "Sponsor", 
+            "start_date": "2014-09-07", 
+            "end_date": "2014-09-10"
+        }, 
+        "20546": {
+            "questions": {
+                "alaska-obama-job-approval": {
+                    "Not sure": 4, 
+                    "Approve": 40, 
+                    "Disapprove": 56
+                }, 
+                "2014-alaska-governor-parnell-vs-walker": {
+                    "Walker": 42, 
+                    "Myers": 2, 
+                    "Clift": 3, 
+                    "Undecided": 13, 
+                    "Parnell": 41
+                }, 
+                "null": {
+                    "McDermott": 9, 
+                    "Undecided": 11, 
+                    "Young": 48, 
+                    "Dunbar": 33
+                }, 
+                "2014-alaska-senate-sullivan-vs-begich": {
+                    "Begich": 41, 
+                    "Sullivan": 43, 
+                    "Fish": 3, 
+                    "Not sure": 11, 
+                    "Gianoutsos": 2
+                }
+            }, 
+            "partisan": "Pollster", 
+            "start_date": "2014-09-18", 
+            "end_date": "2014-09-21"
+        }, 
+        "20291": {
+            "questions": {
+                "2014-alaska-senate-sullivan-vs-begich": {
+                    "Begich": 38, 
+                    "Sullivan": 44, 
+                    "Other": 6, 
+                    "Undecided": 12
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-08-18", 
+            "end_date": "2014-09-02"
+        }, 
+        "20581": {
+            "questions": {
+                "alaska-obama-job-approval": {
+                    "Somewhat Disapprove": 8, 
+                    "Strongly Approve": 20, 
+                    "Strongly Disapprove": 50, 
+                    "Somewhat Approve": 21, 
+                    "Undecided": 1
+                }, 
+                "2014-alaska-senate-sullivan-vs-begich": {
+                    "Begich": 43, 
+                    "Sullivan": 48, 
+                    "Other": 5, 
+                    "Undecided": 4
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-23", 
+            "end_date": "2014-09-24"
+        }, 
+        "20449": {
+            "questions": {
+                "2014-alaska-senate-sullivan-vs-begich": {
+                    "Begich": 41, 
+                    "Sullivan": 40, 
+                    "Other": 10, 
+                    "Undecided": 8
+                }
+            }, 
+            "partisan": "Sponsor", 
+            "start_date": "2014-08-24", 
+            "end_date": "2014-08-27"
+        }, 
+        "20584": {
+            "questions": {
+                "alaska-obama-job-approval": {
+                    "Approve": 32, 
+                    "Disapprove": 65
+                }, 
+                "2014-alaska-senate-sullivan-vs-begich": {
+                    "Begich": 43, 
+                    "Sullivan": 49
+                }
+            }, 
+            "partisan": "Pollster", 
+            "start_date": "2014-09-14", 
+            "end_date": "2014-09-17"
+        }, 
+        "20781": {
+            "questions": {
+                "alaska-obama-job-approval": {
+                    "Approve": 30, 
+                    "Disapprove": 61, 
+                    "Undecided": 9
+                }, 
+                "2014-alaska-governor-parnell-vs-walker": {
+                    "Walker": 51, 
+                    "Neither": 1, 
+                    "Other": 0, 
+                    "Parnell": 45, 
+                    "Undecided": 2
+                }, 
+                "2014-alaska-senate-sullivan-vs-begich": {
+                    "Begich": 44, 
+                    "Sullivan": 50, 
+                    "Neither": 3, 
+                    "Other": 0, 
+                    "Undecided": 2
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-10-01", 
+            "end_date": "2014-10-06"
+        }, 
+        "20499": {
+            "questions": {
+                "2014-alaska-senate-sullivan-vs-begich": {
+                    "Begich": 41, 
+                    "Sullivan": 36, 
+                    "Undecided": 22, 
+                    "Refused": 1
+                }
+            }, 
+            "partisan": "Sponsor", 
+            "start_date": "2014-09-13", 
+            "end_date": "2014-09-14"
+        }, 
+        "20692": {
+            "questions": {
+                "2014-alaska-governor-parnell-vs-walker": {
+                    "Walker": 45, 
+                    "Other": 1, 
+                    "Parnell": 40, 
+                    "Undecided": 14
+                }, 
+                "2014-alaska-senate-sullivan-vs-begich": {
+                    "Begich": 42, 
+                    "Sullivan": 48, 
+                    "Other": 2, 
+                    "Undecided": 8
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-20", 
+            "end_date": "2014-10-01"
+        }, 
+        "20773": {
+            "questions": {
+                "alaska-obama-job-approval": {
+                    "Approve": 33, 
+                    "Disapprove": 61, 
+                    "Undecided": 6
+                }, 
+                "2014-alaska-governor-parnell-vs-walker": {
+                    "Clift": 4, 
+                    "Other": 3, 
+                    "Parnell": 42, 
+                    "Undecided": 12, 
+                    "Walker": 37, 
+                    "Myers": 1, 
+                    "Wouldn't vote": 1
+                }, 
+                "2014-alaska-senate-sullivan-vs-begich": {
+                    "Sullivan": 44, 
+                    "Fish": 3, 
+                    "Begich": 40, 
+                    "Other": 2, 
+                    "Undecided": 9, 
+                    "Gianoutsos": 1, 
+                    "Wouldn't vote": 1
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-10-04", 
+            "end_date": "2014-10-07"
+        }
+    }, 
+    "NC": {
+        "20710": {
+            "questions": {
+                "2014-north-carolina-senate-tillis-vs-hagan": {
+                    "Haugh": 2, 
+                    "Other": 1, 
+                    "Hagan": 46, 
+                    "Undecided": 6, 
+                    "Tillis": 45
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-20", 
+            "end_date": "2014-10-01"
+        }, 
+        "20488": {
+            "questions": {
+                "2014-north-carolina-senate-tillis-vs-hagan": {
+                    "Hagan": 41, 
+                    "Other": 0, 
+                    "Undecided": 13, 
+                    "Tillis": 36, 
+                    "Haugh": 6, 
+                    "Wouldn't vote": 4
+                }, 
+                "north-carolina-obama-job-approval": {
+                    "Approve": 39, 
+                    "Disapprove": 55, 
+                    "Undecided": 6
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-14", 
+            "end_date": "2014-09-16"
+        }, 
+        "20587": {
+            "questions": {
+                "null": {
+                    "Paul": 46, 
+                    "Undecided": 22, 
+                    "Warren": 33
+                }, 
+                "2014-north-carolina-senate-tillis-vs-hagan": {
+                    "Hagan": 46, 
+                    "Undecided": 12, 
+                    "Tillis": 42
+                }, 
+                "north-carolina-obama-job-approval": {
+                    "Approve": 42, 
+                    "Disapprove": 51, 
+                    "Undecided": 7
+                }
+            }, 
+            "partisan": "Sponsor", 
+            "start_date": "2014-09-22", 
+            "end_date": "2014-09-23"
+        }, 
+        "20784": {
+            "questions": {
+                "2014-north-carolina-senate-tillis-vs-hagan": {
+                    "Haugh": 6, 
+                    "Hagan": 44, 
+                    "Tillis": 42
+                }
+            }, 
+            "partisan": "Sponsor", 
+            "start_date": "2014-10-04", 
+            "end_date": "2014-10-07"
+        }, 
+        "20690": {
+            "questions": {
+                "2014-north-carolina-senate-tillis-vs-hagan": {
+                    "Haugh": 7, 
+                    "Other": 0, 
+                    "Hagan": 44, 
+                    "Undecided": 9, 
+                    "Tillis": 40
+                }, 
+                "north-carolina-obama-job-approval": {
+                    "Approve": 39, 
+                    "Disapprove": 49, 
+                    "Undecided": 11
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-27", 
+            "end_date": "2014-10-01"
+        }, 
+        "20602": {
+            "questions": {
+                "2014-north-carolina-senate-tillis-vs-hagan": {
+                    "Hagan": 46, 
+                    "Other": 0, 
+                    "Undecided": 1, 
+                    "Tillis": 43, 
+                    "Haugh": 7, 
+                    "Neither": 3
+                }, 
+                "north-carolina-obama-job-approval": {
+                    "Approve": 42, 
+                    "Disapprove": 52, 
+                    "Undecided": 7
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-22", 
+            "end_date": "2014-09-25"
+        }, 
+        "20537": {
+            "questions": {
+                "2014-north-carolina-senate-tillis-vs-hagan": {
+                    "Haugh": 6, 
+                    "Hagan": 42, 
+                    "Undecided": 12, 
+                    "Tillis": 40
+                }, 
+                "north-carolina-obama-job-approval": {
+                    "Approve": 38, 
+                    "Disapprove": 57, 
+                    "Undecided": 5
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-13", 
+            "end_date": "2014-09-18"
+        }, 
+        "20762": {
+            "questions": {
+                "2014-north-carolina-senate-tillis-vs-hagan": {
+                    "Haugh": 4, 
+                    "Refused": 0, 
+                    "Hagan": 47, 
+                    "Undecided": 3, 
+                    "Tillis": 45
+                }, 
+                "north-carolina-obama-job-approval": {
+                    "Approve": 41, 
+                    "Disapprove": 53, 
+                    "Undecided": 5, 
+                    "Refused": 1
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-10-04", 
+            "end_date": "2014-10-07"
+        }, 
+        "20765": {
+            "questions": {
+                "2014-north-carolina-senate-tillis-vs-hagan": {
+                    "Other": 2, 
+                    "Hagan": 48, 
+                    "Undecided": 4, 
+                    "Tillis": 46
+                }, 
+                "north-carolina-obama-job-approval": {
+                    "Somewhat Disapprove": 6, 
+                    "Strongly Approve": 30, 
+                    "Strongly Disapprove": 43, 
+                    "Somewhat Approve": 18
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-10-06", 
+            "end_date": "2014-10-07"
+        }, 
+        "20638": {
+            "questions": {
+                "2014-north-carolina-senate-tillis-vs-hagan": {
+                    "Hagan": 46, 
+                    "Refused": 1, 
+                    "Other": 1, 
+                    "Undecided": 7, 
+                    "Tillis": 41, 
+                    "Haugh": 4
+                }
+            }, 
+            "partisan": "Pollster", 
+            "start_date": "2014-09-25", 
+            "end_date": "2014-09-27"
+        }
+    }, 
+    "MI": {
+        "20706": {
+            "questions": {
+                "2014-michigan-governor-snyder-vs-schauer": {
+                    "Snyder": 44, 
+                    "Other": 1, 
+                    "Undecided": 9, 
+                    "Schauer": 46
+                }, 
+                "2014-michigan-senate-land-vs-peters": {
+                    "Land": 41, 
+                    "Other": 2, 
+                    "Undecided": 11, 
+                    "Peters": 46
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-20", 
+            "end_date": "2014-10-01"
+        }, 
+        "20675": {
+            "questions": {
+                "2014-michigan-governor-snyder-vs-schauer": {
+                    "McFarlin": 2, 
+                    "Snyder": 46, 
+                    "Buzuma": 2, 
+                    "Undecided": 8, 
+                    "Schauer": 42
+                }, 
+                "2014-michigan-senate-land-vs-peters": {
+                    "Land": 36, 
+                    "Fulner": 3, 
+                    "Matkin": 1, 
+                    "Peters": 49, 
+                    "Undecided": 9, 
+                    "Wahmhoff": 1
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-29", 
+            "end_date": "2014-09-29"
+        }, 
+        "20683": {
+            "questions": {
+                "2014-michigan-governor-snyder-vs-schauer": {
+                    "Snyder": 44, 
+                    "Undecided": 12, 
+                    "Schauer": 43
+                }, 
+                "2014-michigan-senate-land-vs-peters": {
+                    "Land": 36, 
+                    "Undecided": 18, 
+                    "Peters": 45
+                }
+            }, 
+            "partisan": "Pollster", 
+            "start_date": "2014-09-26", 
+            "end_date": "2014-09-30"
+        }, 
+        "20750": {
+            "questions": {
+                "2014-michigan-governor-snyder-vs-schauer": {
+                    "Schauer": 37, 
+                    "Snyder": 45, 
+                    "Buzuma": 2, 
+                    "Refused": 1, 
+                    "Undecided": 14, 
+                    "McFarlin": 1, 
+                    "Homeniuk": 1
+                }, 
+                "2014-michigan-senate-land-vs-peters": {
+                    "Land": 35, 
+                    "Fulner": 3, 
+                    "Matkin": 1, 
+                    "Peters": 44, 
+                    "Undecided": 15, 
+                    "Refused": 1, 
+                    "Wahmhoff": 2
+                }, 
+                "michigan-obama-job-approval": {
+                    "Somewhat Disapprove": 13, 
+                    "Strongly Approve": 23, 
+                    "Strongly Disapprove": 37, 
+                    "Somewhat Approve": 26, 
+                    "Undecided": 2
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-10-02", 
+            "end_date": "2014-10-04"
+        }, 
+        "20751": {
+            "questions": {
+                "2014-michigan-senate-land-vs-peters": {
+                    "Land": 36, 
+                    "Other": 4, 
+                    "Undecided": 12, 
+                    "Peters": 47
+                }
+            }, 
+            "partisan": "Pollster", 
+            "start_date": "2014-09-30", 
+            "end_date": "2014-10-01"
+        }, 
+        "20547": {
+            "questions": {
+                "michigan-obama-job-approval": {
+                    "Somewhat Disapprove": 38, 
+                    "Strongly Approve": 26, 
+                    "Strongly Disapprove": 9, 
+                    "Somewhat Approve": 24, 
+                    "Undecided": 3
+                }, 
+                "2014-michigan-senate-land-vs-peters": {
+                    "Land": 39, 
+                    "Other": 5, 
+                    "Undecided": 15, 
+                    "Peters": 41
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-17", 
+            "end_date": "2014-09-18"
+        }, 
+        "20533": {
+            "questions": {
+                "2014-michigan-governor-snyder-vs-schauer": {
+                    "Schauer": 43, 
+                    "Snyder": 43, 
+                    "Buzuma": 2, 
+                    "Undecided": 10, 
+                    "McFarlin": 1, 
+                    "Homeniuk": 1
+                }, 
+                "2014-michigan-senate-land-vs-peters": {
+                    "Land": 39, 
+                    "Fulner": 3, 
+                    "Matkin": 1, 
+                    "Peters": 42, 
+                    "Undecided": 14, 
+                    "Wahmhoff": 1
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-18", 
+            "end_date": "2014-09-19"
+        }, 
+        "20634": {
+            "questions": {
+                "2014-michigan-governor-snyder-vs-schauer": {
+                    "Snyder": 44, 
+                    "Other": 4, 
+                    "Undecided": 7, 
+                    "Schauer": 45
+                }, 
+                "2014-michigan-senate-land-vs-peters": {
+                    "Land": 38, 
+                    "Other": 6, 
+                    "Undecided": 7, 
+                    "Peters": 48
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-23", 
+            "end_date": "2014-09-25"
+        }, 
+        "20540": {
+            "questions": {
+                "2014-michigan-governor-snyder-vs-schauer": {
+                    "Snyder": 46, 
+                    "Schauer": 44
+                }, 
+                "2014-michigan-senate-land-vs-peters": {
+                    "Land": 40, 
+                    "Peters": 47
+                }
+            }, 
+            "partisan": "Sponsor", 
+            "start_date": "2014-09-18", 
+            "end_date": "2014-09-19"
+        }, 
+        "20735": {
+            "questions": {
+                "2014-michigan-governor-snyder-vs-schauer": {
+                    "Snyder": 47, 
+                    "Undecided": 7, 
+                    "Schauer": 46
+                }, 
+                "2014-michigan-senate-land-vs-peters": {
+                    "Land": 42, 
+                    "Undecided": 9, 
+                    "Peters": 49
+                }
+            }, 
+            "partisan": "Sponsor", 
+            "start_date": "2014-10-02", 
+            "end_date": "2014-10-03"
+        }
+    }, 
+    "KS": {
+        "20768": {
+            "questions": {
+                "kansas-obama-job-approval": {
+                    "Approve": 32, 
+                    "Disapprove": 64, 
+                    "Undecided": 3
+                }, 
+                "2014-kansas-senate-roberts-vs-orman-vs-taylor": {
+                    "Orman": 48, 
+                    "Roberts": 49, 
+                    "Neither": 2, 
+                    "Other": 0, 
+                    "Undecided": 1
+                }, 
+                "2014-kansas-governor-brownback-vs-davis": {
+                    "Davis": 49, 
+                    "Neither": 1, 
+                    "Other": 0, 
+                    "Brownback": 49, 
+                    "Undecided": 1
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-10-02", 
+            "end_date": "2014-10-06"
+        }, 
+        "20451": {
+            "questions": {
+                "null": {
+                    "Paul": 43, 
+                    "Clinton": 41, 
+                    "Undecided": 15
+                }, 
+                "kansas-obama-job-approval": {
+                    "Not sure": 9, 
+                    "Approve": 33, 
+                    "Disapprove": 58
+                }, 
+                "2014-kansas-senate-roberts-vs-orman-vs-taylor": {
+                    "Orman": 41, 
+                    "Roberts": 34, 
+                    "Taylor": 6, 
+                    "Batson": 4, 
+                    "Undecided": 15
+                }, 
+                "2014-kansas-governor-brownback-vs-davis": {
+                    "Davis": 42, 
+                    "Brownback": 38, 
+                    "Umbehr": 7, 
+                    "Undecided": 14
+                }
+            }, 
+            "partisan": "Pollster", 
+            "start_date": "2014-09-11", 
+            "end_date": "2014-09-14"
+        }, 
+        "20772": {
+            "questions": {
+                "kansas-obama-job-approval": {
+                    "Approve": 31, 
+                    "Disapprove": 63, 
+                    "Undecided": 6
+                }, 
+                "2014-kansas-senate-roberts-vs-orman-vs-taylor": {
+                    "Roberts": 44, 
+                    "Other": 4, 
+                    "Batson": 3, 
+                    "Undecided": 10, 
+                    "Orman": 39, 
+                    "Wouldn't vote": 2
+                }, 
+                "2014-kansas-governor-brownback-vs-davis": {
+                    "Brownback": 46, 
+                    "Other": 2, 
+                    "Undecided": 10, 
+                    "Davis": 40, 
+                    "Umbehr": 2, 
+                    "Wouldn't vote": 1
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-10-04", 
+            "end_date": "2014-10-07"
+        }, 
+        "20741": {
+            "questions": {
+                "kansas-obama-job-approval": {
+                    "Approve": 36, 
+                    "Disapprove": 55, 
+                    "Undecided": 9
+                }, 
+                "2014-kansas-senate-roberts-vs-orman-vs-taylor": {
+                    "Orman": 47, 
+                    "Roberts": 40, 
+                    "Undecided": 13
+                }, 
+                "2014-kansas-governor-brownback-vs-davis": {
+                    "Davis": 48, 
+                    "Brownback": 40, 
+                    "Undecided": 12
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-30", 
+            "end_date": "2014-10-01"
+        }, 
+        "20688": {
+            "questions": {
+                "kansas-obama-job-approval": {
+                    "Approve": 35, 
+                    "Disapprove": 54, 
+                    "Undecided": 12
+                }, 
+                "2014-kansas-senate-roberts-vs-orman-vs-taylor": {
+                    "Orman": 48, 
+                    "Roberts": 38, 
+                    "Other": 1, 
+                    "Batson": 5, 
+                    "Undecided": 9
+                }, 
+                "2014-kansas-governor-brownback-vs-davis": {
+                    "Davis": 44, 
+                    "Other": 1, 
+                    "Brownback": 43, 
+                    "Umbehr": 4, 
+                    "Undecided": 7
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-27", 
+            "end_date": "2014-10-01"
+        }, 
+        "20753": {
+            "questions": {
+                "2014-kansas-senate-roberts-vs-orman-vs-taylor": {
+                    "Orman": 47, 
+                    "Roberts": 42, 
+                    "Batson": 4, 
+                    "Undecided": 7
+                }, 
+                "2014-kansas-governor-brownback-vs-davis": {
+                    "Davis": 47, 
+                    "Brownback": 42, 
+                    "Umbehr": 4, 
+                    "Undecided": 7
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-10-02", 
+            "end_date": "2014-10-05"
+        }, 
+        "20658": {
+            "questions": {
+                "null": {
+                    "Jindal": 1, 
+                    "Perry": 7, 
+                    "Cruz": 8, 
+                    "Santorum": 1, 
+                    "Christie": 9, 
+                    "Rubio": 6, 
+                    "Refused": 1, 
+                    "Huckabee": 14, 
+                    "Fiorina": 0, 
+                    "Bush": 15, 
+                    "Other": 4, 
+                    "Ryan": 6, 
+                    "Undecided": 17, 
+                    "Kasich": 1, 
+                    "Walker": 4, 
+                    "Paul": 6
+                }, 
+                "kansas-obama-job-approval": {
+                    "Approve": 36, 
+                    "Disapprove": 57, 
+                    "Undecided": 6, 
+                    "Refused": 0
+                }, 
+                "2014-kansas-senate-roberts-vs-orman-vs-taylor": {
+                    "Orman": 46, 
+                    "Roberts": 41, 
+                    "Batson": 1, 
+                    "Undecided": 11, 
+                    "Refused": 0
+                }, 
+                "2014-kansas-governor-brownback-vs-davis": {
+                    "Davis": 46, 
+                    "Brownback": 42, 
+                    "Umbehr": 6, 
+                    "Undecided": 6, 
+                    "Refused": 0
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-27", 
+            "end_date": "2014-09-30"
+        }, 
+        "20691": {
+            "questions": {
+                "2014-kansas-senate-roberts-vs-orman-vs-taylor": {
+                    "Orman": 40, 
+                    "Roberts": 40, 
+                    "Batson": 2, 
+                    "Undecided": 17
+                }, 
+                "2014-kansas-governor-brownback-vs-davis": {
+                    "Davis": 42, 
+                    "Other": 0, 
+                    "Brownback": 45, 
+                    "Undecided": 12
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-20", 
+            "end_date": "2014-10-01"
+        }, 
+        "20485": {
+            "questions": {
+                "kansas-obama-job-approval": {
+                    "Approve": 40, 
+                    "Disapprove": 55, 
+                    "Undecided": 4
+                }, 
+                "2014-kansas-senate-roberts-vs-orman-vs-taylor": {
+                    "Taylor": 11, 
+                    "Roberts": 40, 
+                    "Other": 0, 
+                    "Batson": 2, 
+                    "Undecided": 8, 
+                    "Orman": 38, 
+                    "Wouldn't vote": 2
+                }, 
+                "2014-kansas-governor-brownback-vs-davis": {
+                    "Brownback": 41, 
+                    "Other": 0, 
+                    "Undecided": 8, 
+                    "Davis": 45, 
+                    "Umbehr": 4, 
+                    "Wouldn't vote": 1
+                }, 
+                "null": {
+                    "Orman": 48, 
+                    "Roberts": 42, 
+                    "Undecided": 8, 
+                    "Wouldn't vote": 3
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-14", 
+            "end_date": "2014-09-16"
+        }, 
+        "20511": {
+            "questions": {
+                "2014-kansas-senate-roberts-vs-orman-vs-taylor": {
+                    "Orman": 45, 
+                    "Roberts": 40, 
+                    "Taylor": 3, 
+                    "Other": 2, 
+                    "Undecided": 10
+                }, 
+                "kansas-obama-job-approval": {
+                    "Approve": 41, 
+                    "Disapprove": 58, 
+                    "Undecided": 1
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-16", 
+            "end_date": "2014-09-17"
+        }
+    }, 
+    "AR": {
+        "20283": {
+            "questions": {
+                "2014-arkansas-senate-cotton-vs-pryor": {
+                    "Pryor": 45, 
+                    "Undecided": 12, 
+                    "Cotton": 43
+                }
+            }, 
+            "partisan": "Sponsor", 
+            "start_date": "2014-08-26", 
+            "end_date": "2014-09-03"
+        }, 
+        "20278": {
+            "questions": {
+                "2014-arkansas-senate-cotton-vs-pryor": {
+                    "Pryor": 47, 
+                    "Neither": 3, 
+                    "Other": 0, 
+                    "Undecided": 1, 
+                    "Cotton": 49
+                }, 
+                "arkansas-obama-job-approval": {
+                    "Approve": 33, 
+                    "Disapprove": 60, 
+                    "Undecided": 7
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-08-28", 
+            "end_date": "2014-09-02"
+        }, 
+        "20774": {
+            "questions": {
+                "2014-arkansas-governor-hutchinson-vs-ross": {
+                    "Hutchinson": 46, 
+                    "Drake": 1, 
+                    "Other": 1, 
+                    "Undecided": 11, 
+                    "Gilbert": 3, 
+                    "Ross": 37, 
+                    "Wouldn't vote": 1
+                }, 
+                "2014-arkansas-senate-cotton-vs-pryor": {
+                    "Pryor": 39, 
+                    "LaFrance": 2, 
+                    "Swaney": 2, 
+                    "Other": 1, 
+                    "Undecided": 10, 
+                    "Cotton": 46, 
+                    "Wouldn't vote": 1
+                }, 
+                "arkansas-obama-job-approval": {
+                    "Approve": 32, 
+                    "Disapprove": 61, 
+                    "Undecided": 7
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-10-04", 
+            "end_date": "2014-10-07"
+        }, 
+        "20521": {
+            "questions": {
+                "2014-arkansas-senate-cotton-vs-pryor": {
+                    "Pryor": 46, 
+                    "Undecided": 11, 
+                    "Cotton": 43
+                }
+            }, 
+            "partisan": "Sponsor", 
+            "start_date": "2014-09-13", 
+            "end_date": "2014-09-18"
+        }, 
+        "20554": {
+            "questions": {
+                "2014-arkansas-governor-hutchinson-vs-ross": {
+                    "Gilbert": 3, 
+                    "Hutchinson": 44, 
+                    "Undecided": 13, 
+                    "Drake": 2, 
+                    "Ross": 38
+                }, 
+                "2014-arkansas-senate-cotton-vs-pryor": {
+                    "Pryor": 38, 
+                    "Swaney": 3, 
+                    "LaFrance": 3, 
+                    "Undecided": 13, 
+                    "Cotton": 43
+                }, 
+                "null": {
+                    "Paul": 43, 
+                    "Clinton": 45, 
+                    "Undecided": 13
+                }, 
+                "arkansas-obama-job-approval": {
+                    "Approve": 31, 
+                    "Disapprove": 62, 
+                    "Undecided": 7
+                }
+            }, 
+            "partisan": "Pollster", 
+            "start_date": "2014-09-18", 
+            "end_date": "2014-09-21"
+        }, 
+        "20432": {
+            "questions": {
+                "2014-arkansas-governor-hutchinson-vs-ross": {
+                    "Gilbert": 2, 
+                    "Hutchinson": 46, 
+                    "Undecided": 10, 
+                    "Ross": 42
+                }, 
+                "2014-arkansas-senate-cotton-vs-pryor": {
+                    "Pryor": 43, 
+                    "LaFrance": 2, 
+                    "Undecided": 8, 
+                    "Cotton": 47
+                }, 
+                "null": {
+                    "Bush": 49, 
+                    "Clinton": 42, 
+                    "Undecided": 9
+                }, 
+                "arkansas-obama-job-approval": {
+                    "Approve": 33, 
+                    "Disapprove": 60, 
+                    "Undecided": 8
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-08", 
+            "end_date": "2014-09-11"
+        }, 
+        "20593": {
+            "questions": {
+                "2014-arkansas-senate-cotton-vs-pryor": {
+                    "Pryor": 40, 
+                    "Other": 5, 
+                    "Undecided": 8, 
+                    "Cotton": 47
+                }, 
+                "arkansas-obama-job-approval": {
+                    "Somewhat Disapprove": 9, 
+                    "Strongly Approve": 21, 
+                    "Strongly Disapprove": 51, 
+                    "Somewhat Approve": 17, 
+                    "Undecided": 2
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-24", 
+            "end_date": "2014-09-25"
+        }, 
+        "20694": {
+            "questions": {
+                "2014-arkansas-governor-hutchinson-vs-ross": {
+                    "Hutchinson": 49, 
+                    "Other": 1, 
+                    "Undecided": 12, 
+                    "Ross": 38
+                }, 
+                "2014-arkansas-senate-cotton-vs-pryor": {
+                    "Pryor": 41, 
+                    "Other": 1, 
+                    "Undecided": 13, 
+                    "Cotton": 45
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-20", 
+            "end_date": "2014-10-01"
+        }, 
+        "20571": {
+            "questions": {
+                "2014-arkansas-governor-hutchinson-vs-ross": {
+                    "Hutchinson": 43, 
+                    "Drake": 2, 
+                    "Refused": 0, 
+                    "Undecided": 11, 
+                    "Gilbert": 3, 
+                    "Ross": 41
+                }, 
+                "2014-arkansas-senate-cotton-vs-pryor": {
+                    "Pryor": 45, 
+                    "LaFrance": 3, 
+                    "Swaney": 3, 
+                    "Refused": 0, 
+                    "Undecided": 7, 
+                    "Cotton": 43
+                }, 
+                "null": {
+                    "Jindal": 3, 
+                    "Perry": 8, 
+                    "Cruz": 7, 
+                    "Huntsman": 2, 
+                    "Santorum": 2, 
+                    "Christie": 5, 
+                    "Rubio": 5, 
+                    "Refused": 0, 
+                    "Huckabee": 39, 
+                    "Bush": 5, 
+                    "Other": 2, 
+                    "Ryan": 3, 
+                    "Undecided": 10, 
+                    "Kasich": 1, 
+                    "Walker": 2, 
+                    "Paul": 6
+                }, 
+                "arkansas-obama-job-approval": {
+                    "Approve": 34, 
+                    "Disapprove": 59, 
+                    "Undecided": 7, 
+                    "Refused": 0
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-20", 
+            "end_date": "2014-09-23"
+        }, 
+        "20287": {
+            "questions": {
+                "2014-arkansas-governor-hutchinson-vs-ross": {
+                    "Hutchinson": 48, 
+                    "Drake": 3, 
+                    "Other": 0, 
+                    "Undecided": 7, 
+                    "Gilbert": 3, 
+                    "Ross": 39
+                }, 
+                "2014-arkansas-senate-cotton-vs-pryor": {
+                    "Pryor": 40, 
+                    "LaFrance": 2, 
+                    "Swaney": 3, 
+                    "Other": 1, 
+                    "Undecided": 9, 
+                    "Cotton": 45
+                }, 
+                "arkansas-obama-job-approval": {
+                    "Approve": 29, 
+                    "Disapprove": 61, 
+                    "Undecided": 10
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-01", 
+            "end_date": "2014-09-02"
+        }
+    }, 
+    "GA": {
+        "20739": {
+            "questions": {
+                "2014-georgia-senate-perdue-vs-nunn": {
+                    "Nunn": 43, 
+                    "Swafford": 3, 
+                    "Undecided": 7, 
+                    "Perdue": 47
+                }, 
+                "2014-georgia-governor-deal-vs-carter": {
+                    "Undecided": 9, 
+                    "Hunt": 4, 
+                    "Carter": 43, 
+                    "Deal": 44
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-29", 
+            "end_date": "2014-10-01"
+        }, 
+        "20740": {
+            "questions": {
+                "2014-georgia-senate-perdue-vs-nunn": {
+                    "Nunn": 42, 
+                    "Other": 3, 
+                    "Undecided": 9, 
+                    "Perdue": 46
+                }, 
+                "georgia-obama-job-approval": {
+                    "Somewhat Disapprove": 7, 
+                    "Strongly Approve": 29, 
+                    "Strongly Disapprove": 46, 
+                    "Somewhat Approve": 17, 
+                    "Undecided": 1
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-30", 
+            "end_date": "2014-10-01"
+        }, 
+        "20422": {
+            "questions": {
+                "2014-georgia-senate-perdue-vs-nunn": {
+                    "Nunn": 40, 
+                    "Swafford": 5, 
+                    "Undecided": 5, 
+                    "Perdue": 50
+                }, 
+                "2014-georgia-governor-deal-vs-carter": {
+                    "Undecided": 9, 
+                    "Hunt": 7, 
+                    "Carter": 40, 
+                    "Deal": 44
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-10", 
+            "end_date": "2014-09-11"
+        }, 
+        "20424": {
+            "questions": {
+                "2014-georgia-senate-perdue-vs-nunn": {
+                    "Nunn": 46, 
+                    "Swafford": 6, 
+                    "Undecided": 4, 
+                    "Perdue": 43
+                }, 
+                "2014-georgia-governor-deal-vs-carter": {
+                    "Undecided": 5, 
+                    "Hunt": 4, 
+                    "Carter": 47, 
+                    "Deal": 44
+                }
+            }, 
+            "partisan": "Pollster", 
+            "start_date": "2014-09-09", 
+            "end_date": "2014-09-11"
+        }, 
+        "20745": {
+            "questions": {
+                "2014-georgia-senate-perdue-vs-nunn": {
+                    "Nunn": 43, 
+                    "Swafford": 5, 
+                    "Undecided": 8, 
+                    "Perdue": 45
+                }, 
+                "null": {
+                    "Paul": 44, 
+                    "Clinton": 47, 
+                    "Undecided": 9
+                }, 
+                "2014-georgia-governor-deal-vs-carter": {
+                    "Undecided": 9, 
+                    "Hunt": 4, 
+                    "Carter": 41, 
+                    "Deal": 46
+                }, 
+                "georgia-obama-job-approval": {
+                    "Approve": 41, 
+                    "Disapprove": 54, 
+                    "Undecided": 5
+                }
+            }, 
+            "partisan": "Pollster", 
+            "start_date": "2014-10-02", 
+            "end_date": "2014-10-05"
+        }, 
+        "20779": {
+            "questions": {
+                "2014-georgia-senate-perdue-vs-nunn": {
+                    "Nunn": 45, 
+                    "Swafford": 3, 
+                    "Undecided": 6, 
+                    "Perdue": 46
+                }, 
+                "2014-georgia-governor-deal-vs-carter": {
+                    "Undecided": 7, 
+                    "Hunt": 4, 
+                    "Carter": 44, 
+                    "Deal": 46
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-10-02", 
+            "end_date": "2014-10-06"
+        }, 
+        "20402": {
+            "questions": {
+                "2014-georgia-senate-perdue-vs-nunn": {
+                    "Nunn": 41, 
+                    "Swafford": 6, 
+                    "Perdue": 45
+                }, 
+                "2014-georgia-governor-deal-vs-carter": {
+                    "Hunt": 7, 
+                    "Carter": 42, 
+                    "Deal": 43
+                }
+            }, 
+            "partisan": "Pollster", 
+            "start_date": "2014-09-08", 
+            "end_date": "2014-09-11"
+        }, 
+        "20563": {
+            "questions": {
+                "2014-georgia-senate-perdue-vs-nunn": {
+                    "Nunn": 45, 
+                    "Swafford": 4, 
+                    "Undecided": 6, 
+                    "Perdue": 46
+                }, 
+                "2014-georgia-governor-deal-vs-carter": {
+                    "Undecided": 7, 
+                    "Hunt": 4, 
+                    "Carter": 45, 
+                    "Deal": 44
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-19", 
+            "end_date": "2014-09-22"
+        }, 
+        "20502": {
+            "questions": {
+                "2014-georgia-senate-perdue-vs-nunn": {
+                    "Nunn": 41, 
+                    "Other": 4, 
+                    "Undecided": 9, 
+                    "Perdue": 46
+                }, 
+                "georgia-obama-job-approval": {
+                    "Somewhat Disapprove": 7, 
+                    "Strongly Approve": 32, 
+                    "Strongly Disapprove": 43, 
+                    "Somewhat Approve": 15, 
+                    "Undecided": 2
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-15", 
+            "end_date": "2014-09-16"
+        }, 
+        "20697": {
+            "questions": {
+                "2014-georgia-senate-perdue-vs-nunn": {
+                    "Other": 0, 
+                    "Nunn": 43, 
+                    "Swafford": 2, 
+                    "Undecided": 9, 
+                    "Perdue": 47
+                }, 
+                "2014-georgia-governor-deal-vs-carter": {
+                    "Undecided": 7, 
+                    "Hunt": 1, 
+                    "Other": 0, 
+                    "Carter": 43, 
+                    "Deal": 48
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-20", 
+            "end_date": "2014-10-01"
+        }
+    }, 
+    "IA": {
+        "20736": {
+            "questions": {
+                "2014-iowa-senate-ernst-vs-braley": {
+                    "Ernst": 50, 
+                    "Braley": 41, 
+                    "Undecided": 9
+                }, 
+                "2014-iowa-governor-branstad-vs-hatch": {
+                    "Branstad": 55, 
+                    "Undecided": 7, 
+                    "Hatch": 39
+                }
+            }, 
+            "partisan": "Sponsor", 
+            "start_date": "2014-10-03", 
+            "end_date": "2014-10-03"
+        }, 
+        "20674": {
+            "questions": {
+                "2014-iowa-senate-ernst-vs-braley": {
+                    "Ernst": 46, 
+                    "Braley": 47
+                }
+            }, 
+            "partisan": "Sponsor", 
+            "start_date": "2014-09-25", 
+            "end_date": "2014-09-30"
+        }, 
+        "20486": {
+            "questions": {
+                "2014-iowa-senate-ernst-vs-braley": {
+                    "Ernst": 41, 
+                    "Braley": 41, 
+                    "Other": 6, 
+                    "Undecided": 12
+                }, 
+                "2014-iowa-governor-branstad-vs-hatch": {
+                    "Branstad": 50, 
+                    "Other": 4, 
+                    "Undecided": 8, 
+                    "Hatch": 37
+                }, 
+                "iowa-obama-job-approval": {
+                    "Approve": 38, 
+                    "Disapprove": 57, 
+                    "Undecided": 5
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-14", 
+            "end_date": "2014-09-16"
+        }, 
+        "20622": {
+            "questions": {
+                "2014-iowa-senate-ernst-vs-braley": {
+                    "Ernst": 42, 
+                    "Braley": 42
+                }
+            }, 
+            "partisan": "Sponsor", 
+            "start_date": "2014-09-21", 
+            "end_date": "2014-09-25"
+        }, 
+        "20689": {
+            "questions": {
+                "2014-iowa-senate-ernst-vs-braley": {
+                    "Ernst": 46, 
+                    "Braley": 44, 
+                    "Other": 1, 
+                    "Undecided": 9
+                }, 
+                "2014-iowa-governor-branstad-vs-hatch": {
+                    "Branstad": 58, 
+                    "Other": 1, 
+                    "Undecided": 5, 
+                    "Hatch": 36
+                }, 
+                "iowa-obama-job-approval": {
+                    "Approve": 39, 
+                    "Disapprove": 50, 
+                    "Undecided": 10
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-27", 
+            "end_date": "2014-10-01"
+        }, 
+        "20632": {
+            "questions": {
+                "2014-iowa-senate-ernst-vs-braley": {
+                    "Braley": 42, 
+                    "Butzier": 2, 
+                    "Smith": 0, 
+                    "Quast": 1, 
+                    "Undecided": 10, 
+                    "Ernst": 44, 
+                    "Stewart": 1
+                }, 
+                "2014-iowa-governor-branstad-vs-hatch": {
+                    "Hieb": 2, 
+                    "Not sure": 9, 
+                    "Narcisse": 1, 
+                    "Branstad": 50, 
+                    "Hatch": 36, 
+                    "Hennager": 3
+                }, 
+                "iowa-obama-job-approval": {
+                    "Approve": 40, 
+                    "Disapprove": 53, 
+                    "Undecided": 7
+                }, 
+                "null": {
+                    "Paul": 42, 
+                    "Clinton": 47, 
+                    "Undecided": 11
+                }
+            }, 
+            "partisan": "Pollster", 
+            "start_date": "2014-09-25", 
+            "end_date": "2014-09-28"
+        }, 
+        "20600": {
+            "questions": {
+                "2014-iowa-senate-ernst-vs-braley": {
+                    "Braley": 38, 
+                    "Undecided": 12, 
+                    "Butzier": 1, 
+                    "Smith": 1, 
+                    "Quast": 0, 
+                    "None of these/someone else": 1, 
+                    "Ernst": 44, 
+                    "Stewart": 2
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-21", 
+            "end_date": "2014-09-24"
+        }, 
+        "20730": {
+            "questions": {
+                "2014-iowa-senate-ernst-vs-braley": {
+                    "Ernst": 42, 
+                    "Braley": 42, 
+                    "Other": 4, 
+                    "Undecided": 12
+                }, 
+                "iowa-obama-job-approval": {
+                    "Approve": 41, 
+                    "Disapprove": 52, 
+                    "Undecided": 6, 
+                    "Refused": 1
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-10-01", 
+            "end_date": "2014-10-03"
+        }, 
+        "20699": {
+            "questions": {
+                "2014-iowa-senate-ernst-vs-braley": {
+                    "Ernst": 43, 
+                    "Braley": 44, 
+                    "Other": 1, 
+                    "Undecided": 12
+                }, 
+                "2014-iowa-governor-branstad-vs-hatch": {
+                    "Branstad": 52, 
+                    "Other": 0, 
+                    "Undecided": 9, 
+                    "Hatch": 39
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-20", 
+            "end_date": "2014-10-01"
+        }, 
+        "20474": {
+            "questions": {
+                "2014-iowa-senate-ernst-vs-braley": {
+                    "Ernst": 50, 
+                    "Braley": 44, 
+                    "Other": 1, 
+                    "Undecided": 4
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-10", 
+            "end_date": "2014-09-15"
+        }
+    }, 
+    "KY": {
+        "20647": {
+            "questions": {
+                "2014-kentucky-senate-mcconnell-vs-grimes": {
+                    "Undecided": 16, 
+                    "Patterson": 3, 
+                    "McConnell": 40, 
+                    "Grimes": 42
+                }
+            }, 
+            "partisan": "Sponsor", 
+            "start_date": "2014-09-19", 
+            "end_date": "2014-09-27"
+        }, 
+        "20776": {
+            "questions": {
+                "kentucky-obama-job-approval": {
+                    "Approve": 35, 
+                    "Disapprove": 59, 
+                    "Undecided": 6
+                }, 
+                "2014-kentucky-senate-mcconnell-vs-grimes": {
+                    "Patterson": 3, 
+                    "McConnell": 45, 
+                    "Other": 3, 
+                    "Undecided": 8, 
+                    "Grimes": 41, 
+                    "Wouldn't vote": 1
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-10-04", 
+            "end_date": "2014-10-07"
+        }, 
+        "20362": {
+            "questions": {
+                "kentucky-obama-job-approval": {
+                    "Approve": 32, 
+                    "Disapprove": 62, 
+                    "Undecided": 6
+                }, 
+                "2014-kentucky-senate-mcconnell-vs-grimes": {
+                    "Undecided": 2, 
+                    "Patterson": 6, 
+                    "McConnell": 50, 
+                    "Grimes": 42
+                }
+            }, 
+            "partisan": "Sponsor", 
+            "start_date": "2014-09-04", 
+            "end_date": "2014-09-07"
+        }, 
+        "20264": {
+            "questions": {
+                "kentucky-obama-job-approval": {
+                    "Approve": 39, 
+                    "Disapprove": 59, 
+                    "Undecided": 2
+                }, 
+                "2014-kentucky-senate-mcconnell-vs-grimes": {
+                    "Other": 7, 
+                    "Undecided": 6, 
+                    "McConnell": 46, 
+                    "Grimes": 41
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-01", 
+            "end_date": "2014-09-02"
+        }, 
+        "20528": {
+            "questions": {
+                "kentucky-obama-job-approval": {
+                    "Approve": 28, 
+                    "Disapprove": 69, 
+                    "Undecided": 4
+                }, 
+                "2014-kentucky-senate-mcconnell-vs-grimes": {
+                    "Undecided": 6, 
+                    "Other": 5, 
+                    "Not voting": 0, 
+                    "McConnell": 46, 
+                    "Grimes": 42
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-08", 
+            "end_date": "2014-09-12"
+        }, 
+        "20369": {
+            "questions": {
+                "2014-kentucky-senate-mcconnell-vs-grimes": {
+                    "Undecided": 15, 
+                    "McConnell": 42, 
+                    "Grimes": 43
+                }
+            }, 
+            "partisan": "Sponsor", 
+            "start_date": "2014-09-04", 
+            "end_date": "2014-09-07"
+        }, 
+        "20505": {
+            "questions": {
+                "kentucky-obama-job-approval": {
+                    "Approve": 32, 
+                    "Disapprove": 59, 
+                    "Undecided": 9
+                }, 
+                "2014-kentucky-senate-mcconnell-vs-grimes": {
+                    "Undecided": 8, 
+                    "McConnell": 51, 
+                    "Grimes": 41
+                }, 
+                "null": {
+                    "Paul": 52, 
+                    "Undecided": 18, 
+                    "Warren": 30
+                }
+            }, 
+            "partisan": "Sponsor", 
+            "start_date": "2014-09-13", 
+            "end_date": "2014-09-16"
+        }, 
+        "20731": {
+            "questions": {
+                "2014-kentucky-senate-mcconnell-vs-grimes": {
+                    "Undecided": 7, 
+                    "Patterson": 3, 
+                    "McConnell": 44, 
+                    "Grimes": 46
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-29", 
+            "end_date": "2014-10-02"
+        }, 
+        "20285": {
+            "questions": {
+                "kentucky-obama-job-approval": {
+                    "Approve": 31, 
+                    "Disapprove": 61, 
+                    "Undecided": 8
+                }, 
+                "2014-kentucky-senate-mcconnell-vs-grimes": {
+                    "Undecided": 6, 
+                    "Other": 0, 
+                    "Patterson": 8, 
+                    "McConnell": 47, 
+                    "Grimes": 39
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-02", 
+            "end_date": "2014-09-04"
+        }, 
+        "20702": {
+            "questions": {
+                "2014-kentucky-senate-mcconnell-vs-grimes": {
+                    "Undecided": 9, 
+                    "Other": 1, 
+                    "Patterson": 2, 
+                    "McConnell": 47, 
+                    "Grimes": 41
+                }
+            }, 
+            "partisan": "Nonpartisan", 
+            "start_date": "2014-09-20", 
+            "end_date": "2014-10-01"
+        }
+    }
+}
